@@ -5,12 +5,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "RF Transceiver"
+Date "2019-04-19"
+Rev "00"
+Comp "EsseivaN"
+Comment1 "Author : Esseiva Nicolas"
+Comment2 "RF, 868MHz, Transceiver (TxRx) using MRF89XA"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -30,7 +30,7 @@ L 0EsseivaN_Lib:FILTER FL1
 U 1 1 5CC2FCCC
 P 3250 1500
 F 0 "FL1" H 3400 1965 50  0000 C CNN
-F 1 "TA0801A" H 3400 1874 50  0000 C CNN
+F 1 "SF2314E" H 3400 1874 50  0000 C CNN
 F 2 "" H 3250 1500 50  0001 C CNN
 F 3 "" H 3250 1500 50  0001 C CNN
 	1    3250 1500
